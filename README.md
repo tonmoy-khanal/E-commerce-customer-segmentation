@@ -4,4 +4,4 @@ This repo contains the Customer Segmentation project as part of my Data Science 
 The dataset is publicly available from the UCI Machine Learning Repository website. It is a transactional dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retailer.
 
 # Source: 
-.CSV file is added to the repository.
+https://drive.google.com/file/d/1jLeQLgChgCaHAz0yFXKjztudp1pfwJf8/view
